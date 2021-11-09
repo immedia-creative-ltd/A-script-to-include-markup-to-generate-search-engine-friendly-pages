@@ -1,0 +1,1 @@
+# A-script-to-include-markup-to-generate-search-engine-friendly-pages
